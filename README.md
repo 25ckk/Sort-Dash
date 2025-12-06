@@ -167,10 +167,12 @@ Progress bar showing completion percentage.
 Practice mode scoring and hints.
 Prediction mode scoring and hints.
 
+
+
+
+## Flowchart Diagram
+
 ```
-
-
-Flowchart Diagram (ASCII example)
 +------------------+
 | User inputs array|
 +--------+---------+
@@ -228,6 +230,7 @@ python app.py
 4. Open the provided local URL (or the Hugging Face URL after deployment) and interact with the app.
 
 
+```
 
 
 ## Hugging Face Link
@@ -256,5 +259,3 @@ UI Design Advice: Suggested user interface elements and visualization strategies
 
 
 The AI acted as a collaborative coding assistant, offering suggestions, generating initial code templates, and providing guidance. All final code, logic decisions, and design choices were reviewed, modified, and approved by myself - the human in the loop.
-
-
