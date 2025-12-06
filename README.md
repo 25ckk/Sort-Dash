@@ -45,6 +45,8 @@ Example screenshot:
 
 Shows initial array and first pair being compared.
 
+![Tutorial Progress](screenshots/Tutorial_Progress.png)
+
 3. Practice Mode
 Swap allowed only when left > right.
 Feedback messages correctly appear when swap is allowed or forbidden.
@@ -252,3 +254,4 @@ UI Design Advice: Suggested user interface elements and visualization strategies
 
 
 The AI acted as a collaborative coding assistant, offering suggestions, generating initial code templates, and providing guidance. All final code, logic decisions, and design choices were reviewed, modified, and approved by myself - the human in the loop.
+
