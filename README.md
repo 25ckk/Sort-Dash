@@ -45,8 +45,6 @@ Example screenshot:
 
 Shows initial array and first pair being compared.
 
-![Tutorial Progress](screenshots/Tutorial_Progress.png)
-
 3. Practice Mode
 Swap allowed only when left > right.
 Feedback messages correctly appear when swap is allowed or forbidden.
@@ -251,5 +249,6 @@ Algorithm Planning Guidance: Helped outline computational thinking steps such as
 Documentation and README Drafting: Provided explanations, structured documentation, and examples of flowcharts and visual guides for clarity and readability.
 
 UI Design Advice: Suggested user interface elements and visualization strategies, including bar highlighting, progress indicators, and clear messaging for practice and tutorial modes.
+
 
 The AI acted as a collaborative coding assistant, offering suggestions, generating initial code templates, and providing guidance. All final code, logic decisions, and design choices were reviewed, modified, and approved by myself - the human in the loop.
